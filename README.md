@@ -1,4 +1,4 @@
-🤖 Web Automation on Autopilot: Building an AI Browser Agent
+The_AI_Swiss_Army_Knife__One_Line_Solutions_with_Hugging_Face_Pipelines.ipynb
 📌 Project Overview
 
 Web Automation on Autopilot is an AI-powered browser agent designed to autonomously perform web-based tasks with minimal human intervention.
